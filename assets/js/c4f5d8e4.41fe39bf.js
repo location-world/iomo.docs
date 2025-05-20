@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[634],{9179:(e,n,i)=>{i.r(n),i.d(n,{default:()=>s});i(6540);var r=i(4848);function s(){return(0,r.jsxs)("main",{children:[(0,r.jsx)("h1",{children:"Bienvenido al sitio"}),(0,r.jsxs)("p",{children:["Haz clic en ",(0,r.jsx)("a",{href:"/intro",children:"intro"})," para comenzar."]})]})}}}]);

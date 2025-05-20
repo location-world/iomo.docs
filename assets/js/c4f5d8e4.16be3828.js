@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[634],{9179:(e,n,i)=>{i.r(n),i.d(n,{default:()=>c});i(6540);var s=i(4848);function c(){return(0,s.jsxs)("main",{children:[(0,s.jsx)("h1",{children:"Bienvenido al sitio"}),(0,s.jsxs)("p",{children:["Haz clic en ",(0,s.jsx)("a",{href:"/iomo-docs/intro",children:"intro"})," para comenzar."]})]})}}}]);
